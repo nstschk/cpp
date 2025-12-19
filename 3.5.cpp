@@ -13,13 +13,8 @@ private:
 
 public:
 
-    Book(string t, string a, string i, int y) {
-        title = t;
-        author = a;
-        isbn = i;
-        year = y;
-        isAvailable = true;
-    }
+    Book(string t, string a, string i, int y) : title(t), author(a), isbn(i), year(y), isAvailable(true) {}
+
     string getTitle() const {
         return title;
     }
@@ -207,4 +202,5 @@ int main() {
     cout << endl;
 
     return 0;
+
 }
