@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Address.obj",
+            "outputs": [
+                "x64\\Debug\\Address.h_E2A7977184BF93A2.ifc.dt.module.json",
+                "x64\\Debug\\Address.h_E2A7977184BF93A2.ifc.dt.d.json",
+                "x64\\Debug\\Address.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\dimi1\\source\\repos\\4\\4\\Address.h",
+                    "source-path": "c:\\users\\dimi1\\source\\repos\\4\\4\\address.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

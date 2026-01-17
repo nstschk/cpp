@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Address.h.obj",
+            "outputs": [
+                "C:\\Users\\dimi1\\source\\repos\\4\\4\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\dimi1\\source\\repos\\4\\4\\x64\\Debug\\Address.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Address.h",
+                    "source-path": "c:\\users\\dimi1\\source\\repos\\4\\4\\address.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
